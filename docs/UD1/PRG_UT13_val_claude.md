@@ -41,6 +41,14 @@ La resposta és no. Necessitem que la informació siga canviant (variable) duran
 
 <img src="PRG_UT13_val_images/imatge1.jpg" alt="Imatge 1" />
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ### Funcionament de la memòria
 
 Per entendre el funcionament de la memòria, podem utilitzar el símil de resoldre una multiplicació de dos xifres:
