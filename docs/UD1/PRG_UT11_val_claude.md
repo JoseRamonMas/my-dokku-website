@@ -34,13 +34,13 @@ Aquest apartat introdueix els conceptes bàsics de l'estructura d'un programa in
 
 La programació està present en moltes de les nostres accions diàries, encara que no sempre en siguem conscients.
 
-<img src="PRG_UT11_val_images/imatge1.jpg" alt="Imatge 1">
-<img src="PRG_UT11_val_images/imatge2.jpg" alt="Imatge 2">
-<img src="PRG_UT11_val_images/imatge3.jpg" alt="Imatge 3">
-<img src="PRG_UT11_val_images/imatge4.jpg" alt="Imatge 4">
-<img src="PRG_UT11_val_images/imatge5.jpg" alt="Imatge 5">
-<img src="PRG_UT11_val_images/imatge6.jpg" alt="Imatge 6">
-<img src="PRG_UT11_val_images/imatge7.jpg" alt="Imatge 7">
+<img src="PRG_UT11_val_images/imatge1.jpg" alt="Imatge 1" />
+<img src="PRG_UT11_val_images/imatge2.jpg" alt="Imatge 2" />
+<img src="PRG_UT11_val_images/imatge3.jpg" alt="Imatge 3" />
+<img src="PRG_UT11_val_images/imatge4.jpg" alt="Imatge 4" />
+<img src="PRG_UT11_val_images/imatge5.jpg" alt="Imatge 5" />
+<img src="PRG_UT11_val_images/imatge6.jpg" alt="Imatge 6" />
+<img src="PRG_UT11_val_images/imatge7.jpg" alt="Imatge 7" />
 
 ---
 
@@ -52,7 +52,7 @@ Un **algorisme** és la seqüència ordenada de passos, descrita sense ambigüit
 - No té perquè estar relacionat amb els ordinadors, per exemple preparar una recepta.
 - La resolució del problema parteix d'unes dades d'entrada, una seqüència de passos o instruccions i unes dades d'eixida.
 
-<img src="PRG_UT11_val_images/imatge8.jpg" alt="Imatge 8">
+<img src="PRG_UT11_val_images/imatge8.jpg" alt="Imatge 8" />
 
 ### Programa
 En un **programa**, els passos que permeten resoldre el problema s'han d'escriure en un determinat llenguatge de programació perquè puguen ser executats en l'ordinador i així obtindre la solució.
@@ -130,8 +130,8 @@ Cada ordre està vinculada a aquestes tres parts de l'ordinador:
 
 Podem dissenyar algoritmes de forma genèrica utilitzant pseudocodi o bé mitjançant un organigrama o diagrama de flux.
 
-<img src="PRG_UT11_val_images/imatge9.jpg" alt="Imatge 9">
-<img src="PRG_UT11_val_images/imatge10.jpg" alt="Imatge 10">
+<img src="PRG_UT11_val_images/imatge9.jpg" alt="Imatge 9" />
+<img src="PRG_UT11_val_images/imatge10.jpg" alt="Imatge 10" />
 
 ---
 
@@ -156,14 +156,14 @@ Segons les característiques es classifiquen en:
 - L'arxiu executable no serà multiplataforma.
 - En cas d'existir un error en el codi, el compilador ho farà saber (i no es compilarà el programa).
 
-<img src="PRG_UT11_val_images/imatge11.jpg" alt="Imatge 11">
+<img src="PRG_UT11_val_images/imatge11.jpg" alt="Imatge 11" />
 
 ### Llenguatges interpretats
 
 - Són multiplataforma, per això són més portables però es requereix d'un intèrpret.
 - Es tradueix cada línia de codi de forma ordenada cada volta que s'executa (no es genera un fitxer executable).
 
-<img src="PRG_UT11_val_images/imatge12.jpg" alt="Imatge 12">
+<img src="PRG_UT11_val_images/imatge12.jpg" alt="Imatge 12" />
 
 ### Java: un cas particular
 
@@ -177,13 +177,13 @@ Java és un llenguatge compilat, però és compilat a un llenguatge intermedi an
 1. **Llenguatge màquina**: Instruccions en binari, octal o hexadecimal. Cada microprocessador té el seu propi llenguatge màquina.
 2. **Llenguatge assemblador**: Proper al llenguatge màquina. Substitueix el codi binari per operacions simples (ADD, INC, DEC, MOV...). Ha de ser traduït (assemblat) a codi màquina.
 
-<img src="PRG_UT11_val_images/imatge13.jpg" alt="Imatge 13">
-<img src="PRG_UT11_val_images/imatge14.jpg" alt="Imatge 14">
-<img src="PRG_UT11_val_images/imatge15.jpg" alt="Imatge 15">
+<img src="PRG_UT11_val_images/imatge13.jpg" alt="Imatge 13" />
+<img src="PRG_UT11_val_images/imatge14.jpg" alt="Imatge 14" />
+<img src="PRG_UT11_val_images/imatge15.jpg" alt="Imatge 15" />
 
 ### Llenguatges d'alt nivell
 
-<img src="PRG_UT11_val_images/imatge16.jpg" alt="Imatge 16">
+<img src="PRG_UT11_val_images/imatge16.jpg" alt="Imatge 16" />
 
 - Especificació d'una gramàtica més similar al llenguatge natural, el que facilita al programador crear programes complexos.
 - L'ordinador haurà de traduir cada instrucció o estructura del llenguatge de programació en una seqüència molt més llarga d'instruccions en codi màquina.
@@ -194,11 +194,11 @@ Java és un llenguatge compilat, però és compilat a un llenguatge intermedi an
 
 ## Exemple de programa
 
-<img src="PRG_UT11_val_images/imatge17.jpg" alt="Imatge 17">
+<img src="PRG_UT11_val_images/imatge17.jpg" alt="Imatge 17" />
 
 NOTA: No et preocupes si no entens el codi. No cal que el comprengues ni que el proves. Es posen els següents exemples per a fer una comparativa visual del mateix programa en distints llenguatges de programació.
 
-<img src="PRG_UT11_val_images/imatge18.jpg" alt="Imatge 18">
+<img src="PRG_UT11_val_images/imatge18.jpg" alt="Imatge 18" />
 
 ---
 
@@ -225,9 +225,9 @@ Desenvolupament i execució de programes: Editor i Compilador (inclou Linker) o 
 
 Un IDE facilita la tasca i inclou ambdues eines.
 
-<img src="PRG_UT11_val_images/imatge19.jpg" alt="Imatge 19">
-<img src="PRG_UT11_val_images/imatge20.jpg" alt="Imatge 20">
-<img src="PRG_UT11_val_images/imatge21.jpg" alt="Imatge 21">
+<img src="PRG_UT11_val_images/imatge19.jpg" alt="Imatge 19" />
+<img src="PRG_UT11_val_images/imatge20.jpg" alt="Imatge 20" />
+<img src="PRG_UT11_val_images/imatge21.jpg" alt="Imatge 21" />
 
 ---
 
@@ -240,7 +240,7 @@ Aprendre a programar en un llenguatge concret facilita l'aprenentatge d'altres.
 
 El llenguatge en este curs serà Java.
 
-<img src="PRG_UT11_val_images/imatge22.jpg" alt="Imatge 22">
+<img src="PRG_UT11_val_images/imatge22.jpg" alt="Imatge 22" />
 
 ---
 
@@ -288,7 +288,7 @@ Vídeo amb exemple d'instal·lació del JDK i prova de compilació: https://www.
 
 Si solament necessites executar un programa Java, només caldrà tindre instal·lada la JVM (això es troba a la JRE)
 
-<img src="PRG_UT11_val_images/imatge23.jpg" alt="Imatge 23">
+<img src="PRG_UT11_val_images/imatge23.jpg" alt="Imatge 23" />
 
 Això vol dir que si agafes un fitxer ".class" prèviament generat i el descarregues en un altre ordinador que només tinga el JRE (habitualment vindrà instal·lat) funcionarà correctament el programa.
 
@@ -296,7 +296,7 @@ Això vol dir que si agafes un fitxer ".class" prèviament generat i el descarre
 
 ## Estructura HolaMon
 
-<img src="PRG_UT11_val_images/imatge24.jpg" alt="Imatge 24">
+<img src="PRG_UT11_val_images/imatge24.jpg" alt="Imatge 24" />
 
 1. Delimitació del codi font Java
 2. Comentari del codi

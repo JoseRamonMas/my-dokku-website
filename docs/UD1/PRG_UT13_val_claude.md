@@ -39,7 +39,7 @@ La resposta és no. Necessitem que la informació siga canviant (variable) duran
 
 > **Nota**: La memòria RAM és volàtil i limitada, per tant, no s'ha d'utilitzar a la babalà.
 
-<img src="PRG_UT13_val_images/imatge1.jpg" alt="Imatge 1">
+<img src="PRG_UT13_val_images/imatge1.jpg" alt="Imatge 1" />
 
 ### Funcionament de la memòria
 
@@ -126,7 +126,7 @@ volatile, const, float, native, super, while
 
 A més de les operacions aritmètiques bàsiques, existeixen operadors d'assignació:
 
-<img src="./PRG_UT13_val_images/imatge3.jpg" alt="Imatge 3">
+<img src="./PRG_UT13_val_images/imatge3.jpg" alt="Imatge 3" />
 
 Els operadors d'increment (`++`) i decrement (`--`) s'utilitzen per a sumar 1 o restar 1 respectivament a una variable. Es poden col·locar abans (preincrement/predecrement) o després (postincrement/postdecrement) de la variable.
 
@@ -155,7 +155,7 @@ Es recomana usar sempre lletres majúscules per a l'identificador, separant les 
 
 Exemple:
 
-<img src="PRG_UT13_val_images/imatge8.jpg" alt="Imatge 8">
+<img src="PRG_UT13_val_images/imatge8.jpg" alt="Imatge 8" />
 
 > **Important**: Només podem assignar el valor a una constant una ÚNICA vegada. Si intentem assignar-li després un altre valor ens apareixerà un error de compilació.
 

@@ -123,7 +123,7 @@ double distanciaEstrella = 1.5e8; // 150 milions de km
 3. **Memòria**: Els enters ocupen menys espai en memòria.
 4. **Semàntica**: Alguns conceptes són inherentment enters (com el número de persones).
 
-<img src="PRG_UT12_val_images/imatge2.jpg" alt="Imatge 2">
+<img src="PRG_UT12_val_images/imatge2.jpg" alt="Imatge 2" />
 
 ---
 
